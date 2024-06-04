@@ -8,7 +8,7 @@ import math
 import json
 
 # Initialize Google Maps API client with your API key
-gmaps = googlemaps.Client(key='AIzaSyBcVFfX8DYXV1OhelqKNzICaJUa1JdvbkQ')
+gmaps = googlemaps.Client(key='YOUR API KEY')
 
 def setup_places_dictionary():
     """
